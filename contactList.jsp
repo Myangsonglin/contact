@@ -1,6 +1,6 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <%@ page import="java.util.*" %>
-<%@ page import="com.roywmiller.contacts.model.*" %>
+<%@ page import="cc.young.contacts.model.*" %>
 <html>
 <head>
 <title>Contacts List 1.0</title>
